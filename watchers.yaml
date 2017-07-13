@@ -1170,3 +1170,5 @@ seemasharmafnal:
 DryRun:
 - DQM/HcalCommon
 - DQM/HcalTasks
+bsunanda:
+  - Geometry/
